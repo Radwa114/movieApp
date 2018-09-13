@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moviee</string>
+    <string name="image_url">"http://image.tmdb.org/t/p/w185/"</string>
+    <string name="favorite">Favorite Movies</string>
+</resources>
